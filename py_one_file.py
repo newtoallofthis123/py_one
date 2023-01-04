@@ -80,3 +80,4 @@ Open this is a code editor to read all the contents
         os.system(f'nano {os.path.realpath(__file__)}')
     except:
         print("Unable to open in sublime, trying in VSCode")
+print("hello world")        
